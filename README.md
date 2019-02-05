@@ -1,7 +1,7 @@
 # Interac Voice Transfer
+This project was created and demoed as part of McHacks 6 hosted at McGill University.
 
-This project integrates the Interac API with Google Assistant, allowing the user to request 
-etransfers from other people using their voice. 
+This project integrates the Interac API with Google Assistant, allowing the users to request etransfers from one or multiple people along with varying amounts.
 
 ## Getting Started
 1. Create an account on the [Interac developers page](https://developer.interac.ca/) to access the Interac API. Follow the hackathon instructions for creating access tokens [here](https://ryan-lee-3.gitbook.io/requestmoneyapi/introduction/untitled). 
